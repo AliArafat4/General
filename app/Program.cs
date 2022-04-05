@@ -1,6 +1,5 @@
 ﻿Console.WriteLine("how many students");
 
-//int num = Console.Read();
 int num = Convert.ToInt32(Console.ReadLine());
 float grade;
 string name = " ";
